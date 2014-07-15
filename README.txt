@@ -1,1 +1,1 @@
-http://blindbird.github.io/mathquizindex.html
+http://blindbird.github.io/mathquiz
